@@ -23,7 +23,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('BelajarFlutter.com'),
+        title: const Text('Coba Belajar.com'),
       ),
       body: const Center(child: Text('Ini Text Pertama COba Update')),
     );
