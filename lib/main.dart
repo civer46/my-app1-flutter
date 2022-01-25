@@ -25,7 +25,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('BelajarFlutter.com'),
       ),
-      body: const Center(child: Text('Ini Text Pertama Ya')),
+      body: const Center(child: Text('Ini Text Pertama COba Update')),
     );
   }
 }
